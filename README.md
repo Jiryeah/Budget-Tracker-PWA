@@ -20,11 +20,7 @@ SO THAT my account balance is accurate when I am traveling.
 
 ## Link to Deployed Application
 
--
-
-## Screenshot of Deployed Application
-
--
+- https://git.heroku.com/mighty-headland-74734.git
 
 ## Technologies Used
 
